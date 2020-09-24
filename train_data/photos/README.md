@@ -1,0 +1,1 @@
+This is to reserve the folder to put the labels and photos.
