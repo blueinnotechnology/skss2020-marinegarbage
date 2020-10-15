@@ -1,5 +1,5 @@
 classes = 2
-train = ./train_data/train.txt
-valid = ./train_data/test.txt
-names = ./train_data/obj_mask.names
-backup = ./backup/mask/
+train = /research/dept6/hckam/alexeyab/darknet/skss2020-marinegarbage/train_data/train.txt
+valid = /research/dept6/hckam/alexeyab/darknet/skss2020-marinegarbage/train_data/test.txt
+names = /research/dept6/hckam/alexeyab/darknet/skss2020-marinegarbage/train_data/obj_marine.names
+backup = /research/dept6/hckam/alexeyab/darknet/skss2020-marinegarbage/weights
